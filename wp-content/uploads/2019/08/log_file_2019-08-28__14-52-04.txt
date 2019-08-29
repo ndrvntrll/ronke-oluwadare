@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /Applications/MAMP/htdocs/ronke-oluwadare/wp-content/themes/tracem/inc/demo/content.xml
+Widget file = /Applications/MAMP/htdocs/ronke-oluwadare/wp-content/themes/tracem/inc/demo/widget.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+tracem-footer-right-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Footer Navigation - Imported to Inactive
+Navigation Menu - Helpful Links - Imported to Inactive
+
+tracem-footer-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+MailPoet 3 Form - Get Trending Design - Imported to Inactive
+Navigation Menu - Footer Navigation - Imported to Inactive
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Tracem About Me - About - Imported
+Categories - Categories - Imported
+Tag Cloud - TagCloud - Imported
+
+Footer one : 
+
+Navigation Menu - Footer Navigation - Imported
+
+Footer two : 
+
+Navigation Menu - Helpful Links - Imported
+
+Footer Subscription : 
+
+MailPoet 3 Form - Get Trending Design - Imported
+
+
+
+---pt-ocdi/after_import---
+

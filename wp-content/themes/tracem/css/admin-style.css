@@ -1,0 +1,7 @@
+.ocdi__response .notice.notice-info {
+	display: none !important;
+}
+
+.ocdi__gl-item-container .ocdi__gl-item:last-child {
+	display: none;
+}

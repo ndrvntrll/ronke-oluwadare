@@ -1,0 +1,717 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tracem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-03 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: inc/helpers/comment-template.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/helpers/comment-template.php:23
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:36
+msgid ", "
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/404-options.php:22
+msgid "404"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/404-options.php:29
+msgid "404 Background"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/404-options.php:16
+msgid "404 Options"
+msgstr ""
+
+#. Description of the theme
+msgid "A Mesmerizing Portfolio WordPress Theme"
+msgstr ""
+
+#: inc/tracem-navwalker.php:209
+msgid "Add a menu"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:146
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:64
+msgid "Add New"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:42
+msgid "Add New Details"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:148
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:65
+msgid "Add New Field"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:43
+#: cs-framework-override/config/inc/custom/team-metabox.php:34
+msgid "Add New Info"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:33
+msgid "Add New Social"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:33
+msgid "Add Portfolio"
+msgstr ""
+
+#: inc/core/widgets.php:21 inc/core/widgets.php:30 inc/core/widgets.php:39
+#: inc/core/widgets.php:48
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/core/extra.php:161 inc/core/extra.php:169
+msgid "After finishing the demo data, you need to import theme options backup!"
+msgstr ""
+
+#: 404.php:37
+msgid "Back to homepage"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/backup-options.php:16
+msgid "Backup"
+msgstr ""
+
+#: inc/core/breadcrumbs.php:121 template-parts/header/page-header.php:73
+#: cs-framework-override/config/inc/theme-options/options/blog-options.php:16
+msgid "Blog"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/blog-options.php:40
+msgid "Blog Single Style"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/blog-options.php:22
+#: cs-framework-override/config/inc/theme-options/options/blog-options.php:28
+msgid "Blog Style"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:20
+msgid "Body Font Family - Default"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:30
+msgid "Body Font Family - Extra"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:40
+msgid "Body Font Size"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:48
+msgid "Brand Color"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:109
+msgid "Breadcrumb"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:131
+msgid "Breadcrumb Image"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:116
+msgid "Breadcrumb On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:145
+msgid "Breadcrumb Overlay Color"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:138
+msgid "Breadcrumb Video"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:55
+msgid "Button Opacity Background"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:89
+msgid "Choose image size when it appears in Masonary Portfolio"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:63
+msgid "Codestar Framework"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought"
+msgid_plural "%1$s thoughts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:119
+msgid "Contact Form 7"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/page/content-fullwidth.php:46
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/post/content-image.php:48
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-search.php:39 template-parts/post/content.php:57
+#: template-parts/post/content.php:70
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:83
+msgid "Default"
+msgstr ""
+
+#: inc/core/extra.php:157 inc/core/extra.php:165
+msgid "Demo Content"
+msgstr ""
+
+#: inc/core/extra.php:36
+#: cs-framework-override/config/inc/custom/team-metabox.php:26
+msgid "Designation"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:88
+msgid "Dimension for Masonary"
+msgstr ""
+
+#: inc/helpers/comment-template.php:67
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post
+#: template-parts/page/content-fullwidth.php:62
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/post/content-aside.php:30
+#: template-parts/post/content-image.php:100
+#: template-parts/post/content-link.php:31
+#: template-parts/post/content-page.php:33
+#: template-parts/post/content-search.php:63
+#: template-parts/post/content.php:109
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:34
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:109
+msgid "Elementor"
+msgstr ""
+
+#: inc/core/extra.php:32
+msgid "Extra profile information"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:26
+msgid "Extra Title"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:22
+msgid "Footer"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:274
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:115
+msgid "Footer Border Color"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:228
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:77
+msgid "Footer Bottom"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:250
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:91
+msgid "Footer Bottom Background"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:258
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:99
+msgid "Footer Bottom Color"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:266
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:107
+msgid "Footer Bottom Color(Hover)"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:235
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:84
+msgid "Footer Bottom On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:187
+#: cs-framework-override/config/inc/page/page-opt.php:242
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:36
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:123
+msgid "Footer Container"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:131
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/core/widgets.php:28
+msgid "Footer one"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:16
+msgid "Footer Options"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:138
+msgid "Footer Slogan"
+msgstr ""
+
+#: inc/core/widgets.php:46
+msgid "Footer Subscription"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:173
+msgid "Footer Top"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:195
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:43
+msgid "Footer Top Background"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:203
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:51
+msgid "Footer Top Color"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:211
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:59
+msgid "Footer Top Color(Hover)"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:29
+msgid "Footer Top On/Off"
+msgstr ""
+
+#: inc/core/widgets.php:37
+msgid "Footer two"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Chosen font(s), translate this to 'off'. Do not translate
+#. into your own language.
+#: inc/core/setup.php:45
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:60
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:51
+msgid "Header Logo"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:67
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:57
+msgid "Header Logo(Retina)"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:16
+msgid "Header Options"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:86
+msgid "Header Search On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:36
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:29
+msgid "Header Select"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:22
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:22
+msgid "Header Style"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themestrace.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themestrace.com/tracem"
+msgstr ""
+
+#: template-parts/post/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:85
+msgid "Large Height"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:84
+msgid "Large Width"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:86
+msgid "Large Width Height"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:115
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:43
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:129
+msgid "Loco Translate"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:104
+msgid "MailPoet"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:114
+msgid "Max Mega Menu"
+msgstr ""
+
+#: inc/core/theme-setup.php:55
+msgid "Mobile Menu"
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:124
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+msgid "One thought"
+msgstr ""
+
+#: inc/core/breadcrumbs.php:213
+msgid "Page"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:14
+msgid "Page Extra Options"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:157
+msgid "Page Footer"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:164
+msgid "Page Footer Activate?"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:92
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:95
+msgid "Page Header"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:99
+msgid "Page Header Activate?"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:123
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:109
+msgid "Page Header Container"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:116
+msgid "Page Header Image"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:52
+msgid "Page Header Logo On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:102
+msgid "Page Header On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:123
+msgid "Page Header Overlay"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:29
+msgid "Page Menu On/Off"
+msgstr ""
+
+#: 404.php:34
+msgid "page not found"
+msgstr ""
+
+#: template-parts/page/content-fullwidth.php:51
+#: template-parts/post/content-image.php:71
+#: template-parts/post/content-page.php:20 template-parts/post/content.php:80
+msgid "Pages:"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:219
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:67
+msgid "Parallax Footer On/Off"
+msgstr ""
+
+#: inc/helpers/comment-template.php:23
+msgid "Pingback:"
+msgstr ""
+
+#: searchform.php:18 template-parts/header/header-initial.php:130
+#: template-parts/header/header-v1.php:130
+#: template-parts/header/header-v2.php:130
+#: template-parts/header/header-v3.php:130
+#: template-parts/header/header-v4.php:115
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/core/extra.php:39
+msgid "Please enter your designation."
+msgstr ""
+
+#: inc/core/extra.php:46
+msgid "Please upload your image from media library and paste the URL here."
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:32
+msgid "Portfolio Additional Images"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:41
+msgid "Portfolio Details"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:13
+msgid "Portfolio Extra Options"
+msgstr ""
+
+#: template-parts/portfolio/portfolio-1.php:38
+#: template-parts/portfolio/portfolio-2.php:67
+msgid "Portfolio Image"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:55
+msgid "Portfolio Info Details"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:49
+msgid "Portfolio Info Heading"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:20
+#: cs-framework-override/config/inc/theme-options/options/portfolio-options.php:16
+msgid "Portfolio Options"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:70
+#: cs-framework-override/config/inc/theme-options/options/portfolio-options.php:29
+msgid "Portfolio Select"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:51 inc/template-tags.php:92
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29 inc/template-tags.php:86
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/preloader-options.php:14
+#: cs-framework-override/config/inc/theme-options/options/preloader-options.php:21
+msgid "Preloader"
+msgstr ""
+
+#: inc/core/theme-setup.php:54
+msgid "Primary"
+msgstr ""
+
+#: template-parts/post/content-image.php:87
+#: template-parts/post/content-search.php:50 template-parts/post/content.php:95
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/post/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:35
+msgid "Remove Portfolio"
+msgstr ""
+
+#: inc/helpers/comment-template.php:58
+msgid "Reply"
+msgstr ""
+
+#: template-parts/header/page-header.php:77
+#, php-format
+msgid "Search Result for: %s"
+msgstr ""
+
+#: inc/core/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/core/extra.php:43
+msgid "Signature URL"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/portfolio-options.php:22
+msgid "Single Portfolio"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:63
+msgid "Single Portfolio Style On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:40
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:154
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:71
+msgid "Social Icon"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:32
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:145
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:63
+msgid "Social Profile"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:46
+#: cs-framework-override/config/inc/theme-options/options/footer-options.php:160
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:77
+msgid "Social URL"
+msgstr ""
+
+#: template-parts/post/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:20 template-parts/header/header-initial.php:131
+#: template-parts/header/header-v1.php:131
+#: template-parts/header/header-v2.php:131
+#: template-parts/header/header-v3.php:131
+#: template-parts/header/header-v4.php:116
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:13
+msgid "Team Extra Options"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/team-metabox.php:20
+msgid "Team Options"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemesTrace"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:180
+msgid "Top Footer On/Off"
+msgstr ""
+
+#. Name of the theme
+#: cs-framework-override/config/framework.config.php:8
+msgid "Tracem"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:83
+msgid "Tracem Extension"
+msgstr ""
+
+#. Name of the template
+msgid "Tracem Page Layout"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:73
+msgid "Tracem Shortcode"
+msgstr ""
+
+#: inc/tgmpa/tgm-plugin-setup.php:93
+msgid "Tracem Widget"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:74
+#: cs-framework-override/config/inc/theme-options/options/header-options.php:44
+msgid "Transparent Menu On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/typography-options.php:13
+msgid "Typorgraphy"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:96
+msgid "Upload a video from media and paste the url here"
+msgstr ""
+
+#: cs-framework-override/config/inc/custom/portfolio-metabox.php:95
+msgid "Video URL"
+msgstr ""
+
+#: cs-framework-override/config/inc/page/page-opt.php:82
+msgid "White Menu On/Off"
+msgstr ""
+
+#: cs-framework-override/config/inc/theme-options/options/backup-options.php:23
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: inc/helpers/comment-template.php:50
+msgid "Your comment is awaiting moderation."
+msgstr ""
